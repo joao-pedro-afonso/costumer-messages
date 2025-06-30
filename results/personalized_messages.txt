@@ -1,0 +1,114 @@
+Gender: Male, Age: 18-33, Salary: 15000-52000
+Message: Hey there! 🤙 We know you love staying on top of trends, so we're excited to offer you an exclusive discount on [Product]! Upgrade your collection now and enjoy a special deal just for you. Don't miss out – this is your chance to grab it at a great price! 🛒✨
+--------------------------------------------------
+Gender: Male, Age: 19-31, Salary: 55000-80000
+Message: "Hey there! As a valued customer, we’re excited to offer you an exclusive discount on [Product Name]. Elevate your style and experience with this special offer just for you. Don’t miss out—grab yours today and enjoy the savings!"
+--------------------------------------------------
+Gender: Male, Age: 18-32, Salary: 81000-148000
+Message: "Hey there! Get ready to level up your style with our exclusive discount on [Product]! This is the perfect opportunity to grab something that complements your unique taste while saving you money. Hurry, this offer is just for a select group of trendsetters like you. Don't miss out!"
+--------------------------------------------------
+Gender: Male, Age: 34-41, Salary: 20000-52000
+Message: "Hello! As a valued customer, we’re excited to offer you an exclusive discount on our latest product, tailored for your taste and lifestyle. Enjoy this special promotion and elevate your experience with us!"
+--------------------------------------------------
+Gender: Male, Age: 35-41, Salary: 53000-79000
+Message: "Hey there! As a valued customer, we want to offer you an exclusive discount on our latest product designed just for you. Enjoy personalized savings that fit your lifestyle. Don't miss out on this limited-time offer tailored to meet your needs!"
+--------------------------------------------------
+Gender: Male, Age: 34-41, Salary: 87000-144000
+Message: "Hey there! As a valued customer, we’re excited to offer you an exclusive discount on [Product Name]! This special promotion is just for you, because we recognize the importance of quality in your life. Don’t miss out on this opportunity to elevate your experience – grab yours today!"
+--------------------------------------------------
+Gender: Male, Age: 45-60, Salary: 20000-43000
+Message: "Dear valued customer, we appreciate your loyalty and are excited to offer you an exclusive discount on our premium product line! As someone who values quality and innovation, we invite you to take advantage of this special offer tailored just for you. Don’t miss out on the chance to enhance your experience with us. Visit our store today!"
+--------------------------------------------------
+Gender: Male, Age: 42-57, Salary: 54000-80000
+Message: "Dear Valued Customer, 
+
+We're excited to offer an exclusive discount just for you! As a distinguished member of our community, we know you appreciate quality and value. Enjoy [insert discount] off our premium [insert product] – a perfect addition to your lifestyle. Don't miss out on this opportunity to elevate your experience. Visit us today and take advantage of this special offer just for you! 
+
+Best regards,  
+[Your Store Name]"
+--------------------------------------------------
+Gender: Male, Age: 42-60, Salary: 83000-150000
+Message: "Exclusive Offer Just for You! As a valued customer, we're excited to offer you a special discount on our premium products. Elevate your experience with us and enjoy the savings tailored to enhance your lifestyle. Visit us today and take advantage of this limited-time offer!"
+--------------------------------------------------
+Gender: Female, Age: 18-33, Salary: 15000-52000
+Message: 🌟 Hey there, fabulous ladies! 🌟 
+
+We know you work hard, and you deserve a little treat! Enjoy an exclusive discount on our latest products just for you. Whether you're looking to refresh your wardrobe or pamper yourself, we’ve got something special waiting for you. Don’t miss out—this offer is as trendy as you are! 💖 
+
+Shop now and indulge in your favorites! 🛍️✨
+--------------------------------------------------
+Gender: Female, Age: 18-33, Salary: 54000-80000
+Message: 🌸 Hey Gorgeous! 🌸 
+
+We're excited to offer you an exclusive discount on our fabulous products! Treat yourself to something special and enjoy a limited-time offer just for you. You deserve it! 💖✨ 
+
+Shop now and embrace your style!
+--------------------------------------------------
+Gender: Female, Age: 18-33, Salary: 82000-150000
+Message: 🌟 Hey there, fabulous! 🌟 As a valued member of our community, we're excited to offer you an exclusive discount on our latest product that perfectly complements your vibrant lifestyle. Treat yourself to something special because you deserve it! 💖✨ Check it out today and elevate your collection!
+--------------------------------------------------
+Gender: Female, Age: 34-41, Salary: 23000-51000
+Message: 🌟 Special Offer Just for You! 🌟 
+
+Dear Valued Customer, 
+
+We’re excited to announce an exclusive discount on [Product Name] just for our amazing female customers aged 34 to 41! As someone who values quality and style, we want you to enjoy [specific discount details] on your next purchase. 
+
+Indulge in this opportunity to treat yourself with something special while saving money! 
+
+Shop now and embrace the savings! 💖 
+
+Best,  
+[Your Store Name]
+--------------------------------------------------
+Gender: Female, Age: 34-41, Salary: 54000-80000
+Message: 🌟 Special Offer Just for You! 🌟
+
+Dear valued customer,
+
+We’re excited to offer you an exclusive discount on our latest product! As a cherished member of our community, we understand the importance of quality and value in your life. For a limited time, enjoy a special discount tailored just for you. 
+
+Treat yourself to something special and take advantage of this opportunity while it lasts! 
+
+Shop now and elevate your experience!
+
+Warm regards,  
+[Your Store Name]
+--------------------------------------------------
+Gender: Female, Age: 35-40, Salary: 93000-147000
+Message: 🌟 Exclusive Offer Just for You! 🌟 
+
+Dear Valued Customer,
+
+We're excited to bring you a special discount on our latest product, tailored for women who appreciate quality and elegance. As a cherished member of our store, you deserve this unique opportunity to indulge yourself. Treat yourself to something special and enjoy a limited-time discount just for you!
+
+Don’t miss out—shop now and elevate your experience!
+
+Best wishes,
+[Your Store Name]
+--------------------------------------------------
+Gender: Female, Age: 44-60, Salary: 20000-51000
+Message: 🌸 Attention Valued Customers! 🌸
+
+We're excited to offer an exclusive discount just for you! As a token of our appreciation for your loyalty, enjoy [specific discount]% off on [specific product]. It's the perfect opportunity to indulge yourself with something special. 
+
+Don’t miss out - come visit us today and treat yourself! 💖 
+
+Best,  
+[Your Store Name]
+--------------------------------------------------
+Gender: Female, Age: 42-59, Salary: 53000-80000
+Message: "Dear Valued Customer, 
+
+We’re excited to offer you an exclusive discount on our featured product just for you! As a valued member of our community, we appreciate your support and want to help you discover something special that fits your style and needs. Enjoy a limited-time savings on your next purchase and elevate your experience with us. 
+
+Thank you for being a part of our family!"
+--------------------------------------------------
+Gender: Female, Age: 42-60, Salary: 82000-146000
+Message: Dear Valued Customer, 
+
+We're excited to offer you an exclusive discount on our premium products! As a special thank you for being part of our community, enjoy [percentage]% off your next purchase. It’s our way of showing appreciation for your loyalty and distinctive taste. Don’t miss out on this limited-time offer tailored just for you!
+
+Warm regards,  
+[Your Store Name]
+--------------------------------------------------
